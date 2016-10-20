@@ -1,0 +1,17 @@
+{
+  "name": "us-states-util",
+  "version": "1.0.1",
+  "description": "Service and mountable Express endpoints for getting misc data on US states, e.g. addresses, license formats, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "squireChuck <squirechucks.codequest@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "jasmine": "^2.5.2"
+  }
+}
