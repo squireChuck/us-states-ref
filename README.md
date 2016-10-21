@@ -50,7 +50,7 @@ Drivers license format source - the Internet... your mileage may vary.
 ## Project 20/20
 1. The Express router makes it trivial to add endpoints onto an existing Express app. Some similarity to EARs/WARs on a Java web server.
 
-2. Jasmine is easy to pick up, many concepts also found in JUnit/Spock. Simple enough to set up test cases running through data-driven scenarios.
+2. Jasmine is easy to pick up, many concepts also transferable from JUnit/Spock. Simple enough to set up test cases running through data-driven scenarios.
 
 3. Publishing packages to npm and using them in different projects (via inclusion in a package.json) is a smooth process. These service + Express router packages might be handy for a Node/Express microservices server. Time'll tell... 
 
