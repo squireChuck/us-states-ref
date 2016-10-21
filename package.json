@@ -1,7 +1,7 @@
 {
-  "name": "us-states-util",
-  "version": "1.0.2",
-  "description": "Service and mountable Express endpoints for getting misc data on US states, e.g. addresses, license formats, etc.",
+  "name": "us-states-ref",
+  "version": "1.0.3",
+  "description": "Service, convenience Express endpoints for getting misc data on US states, e.g. addresses, license formats, etc.",
   "main": "index.js",
   "scripts": {
     "test": "jasmine"
@@ -16,6 +16,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/squireChuck/us-states-util"
+    "url": "https://github.com/squireChuck/us-states-ref"
   }
 }

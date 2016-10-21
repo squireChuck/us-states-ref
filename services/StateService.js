@@ -1,7 +1,5 @@
 function StateService() {
     this.statesList = [];
-    this.stateAbbrevMap = null;
-    this.stateNameMap = null;
 
     // require is synchronous, but acceptable as long as there's a 
     // low expectation of the states data changing.
