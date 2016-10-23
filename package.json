@@ -1,6 +1,6 @@
 {
   "name": "us-states-ref",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Service, convenience Express endpoints for getting misc data on US states, e.g. addresses, license formats, etc.",
   "main": "index.js",
   "scripts": {
