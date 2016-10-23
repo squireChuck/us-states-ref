@@ -1,5 +1,4 @@
-﻿# us-states-ref
-## Intro
+# us-states-ref
 Quick reference of info related to U.S. states, e.g. sample addresses, driver's license formats, etc. 
 
 Exposes service for use in code, Express router for convenient GET endpoints, e.g. to hit with your testing scripts/other personal work.
