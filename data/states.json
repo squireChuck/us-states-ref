@@ -546,22 +546,22 @@
         "capital" : "Boston", 
         "addresses" : [
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "360 Huntington Ave",
+                "city" : "Boston", 
                 "state" : "MA",
-                "zip" : ""
+                "zip" : "02115"
             },
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "1560 VFW Pkwy",
+                "city" : "West Roxbury,", 
                 "state" : "MA",
-                "zip" : ""
+                "zip" : "02132"
             },
             {
-                "street" : "",
-                "city": "",
+                "street" : "740 Middle St",
+                "city": "Weymouth",
                 "state" : "MA",
-                "zip" : ""
+                "zip" : "02188"
             }            
         ], 
         "driversLicenseDescription" : ["1 char's, 8 num's", "9 num's"], 
@@ -573,22 +573,22 @@
         "capital" : "Lansing", 
         "addresses" : [
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "4235 Woodward Ave",
+                "city" : "Detroit", 
                 "state" : "MI",
-                "zip" : ""
+                "zip" : "48201"
             },
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "423 W Eleven Mile Rd",
+                "city" : "Royal Oak", 
                 "state" : "MI",
-                "zip" : ""
+                "zip" : "48067"
             },
             {
-                "street" : "",
-                "city": "",
+                "street" : "26765 Gratiot Ave",
+                "city": "Roseville",
                 "state" : "MI",
-                "zip" : ""
+                "zip" : "48066"
             }            
         ], 
         "driversLicenseDescription" : ["1 char's, 12 num's"], 
@@ -597,25 +597,25 @@
     {
         "name" : "Minnesota",
         "abbrev" : "MN",
-        "capital" : "St. Paul", 
+        "capital" : "Minneapolis", 
         "addresses" : [
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "2929 Hennepin Ave S",
+                "city" : "Minneapolis", 
                 "state" : "MN",
-                "zip" : ""
+                "zip" : "55408"
             },
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "21044 Kenrick Ave",
+                "city" : "Lakeville", 
                 "state" : "MN",
-                "zip" : ""
+                "zip" : "55044"
             },
             {
-                "street" : "",
-                "city": "",
+                "street" : "13000 Zoo Blvd",
+                "city": "Apple Valley",
                 "state" : "MN",
-                "zip" : ""
+                "zip" : "55124"
             }            
         ], 
         "driversLicenseDescription" : ["1 char's, 12 num's"], 
@@ -627,22 +627,22 @@
         "capital" : "Jackson", 
         "addresses" : [
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "5575 I-55 South Frontage Rd",
+                "city" : "Byram", 
                 "state" : "MS",
-                "zip" : ""
+                "zip" : "39272"
             },
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "1146 E County Line Rd",
+                "city" : "Ridgeland", 
                 "state" : "MS",
-                "zip" : ""
+                "zip" : "39157"
             },
             {
-                "street" : "",
-                "city": "",
+                "street" : "1200 High St",
+                "city": "Jackson",
                 "state" : "MS",
-                "zip" : ""
+                "zip" : "39202"
             }            
         ], 
         "driversLicenseDescription" : ["9 num's"], 
@@ -654,22 +654,22 @@
         "capital" : "Jefferson City", 
         "addresses" : [
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "401 Supercenter Dr",
+                "city" : "Jefferson City", 
                 "state" : "MO",
-                "zip" : ""
+                "zip" : "65101"
             },
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "3978 Osage Beach Pkwy",
+                "city" : "Osage Beach", 
                 "state" : "MO",
-                "zip" : ""
+                "zip" : "65065"
             },
             {
-                "street" : "",
-                "city": "",
+                "street" : "1712 E Ohio St",
+                "city": "Clinton",
                 "state" : "MO",
-                "zip" : ""
+                "zip" : "64735"
             }            
         ], 
         "driversLicenseDescription" : ["9 num's", "1 char's, 6-7 num's"], 
@@ -681,22 +681,22 @@
         "capital" : "Helena", 
         "addresses" : [
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "3130 N Sanders St",
+                "city" : "Helena", 
                 "state" : "MT",
-                "zip" : ""
+                "zip" : "59601"
             },
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "6915 Jackrabbit Ln",
+                "city" : "Belgrade", 
                 "state" : "MT",
-                "zip" : ""
+                "zip" : "59714"
             },
             {
-                "street" : "",
-                "city": "",
+                "street" : "1922 W Main St",
+                "city": "Bozeman",
                 "state" : "MT",
-                "zip" : ""
+                "zip" : "59718"
             }            
         ], 
         "driversLicenseDescription" : ["9 num's", "13 num's", "1 char's, 1 num's, 1 char's, 2 num's, 3 char's, and 1 num's"], 
@@ -708,22 +708,22 @@
         "capital" : "Lincoln", 
         "addresses" : [
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "345 W O St",
+                "city" : "Lincoln", 
                 "state" : "NE",
-                "zip" : ""
+                "zip" : "68522"
             },
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "4635 N 72nd St",
+                "city" : "Omaha", 
                 "state" : "NE",
-                "zip" : ""
+                "zip" : "68134"
             },
             {
-                "street" : "",
-                "city": "",
+                "street" : "1500 S 11th St",
+                "city": "Nebraska City",
                 "state" : "NE",
-                "zip" : ""
+                "zip" : "68410"
             }            
         ], 
         "driversLicenseDescription" : ["1 char's, 6-8 num's"], 
@@ -735,22 +735,22 @@
         "capital" : "Carson City", 
         "addresses" : [
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "3905 S Carson St",
+                "city" : "Carson City", 
                 "state" : "NV",
-                "zip" : ""
+                "zip" : "89701"
             },
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "1150 Kietzke Ln",
+                "city" : "Reno", 
                 "state" : "NV",
-                "zip" : ""
+                "zip" : "89502"
             },
             {
-                "street" : "",
-                "city": "",
+                "street" : "1500 State Rte 343",
+                "city": "Fernley",
                 "state" : "NV",
-                "zip" : ""
+                "zip" : "89408"
             }            
         ], 
         "driversLicenseDescription" : ["9 num's", "10 num's"], 
