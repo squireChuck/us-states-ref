@@ -1,5 +1,5 @@
 describe("StateService", function() {
-    var StateService = require('../../services/StateService');
+    var StateService = require('../services/StateService');
     var stateService = new StateService();
     var stateAbbrevs = ["AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", "HI", 
                         "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD", "MA", "MI", 
@@ -42,7 +42,7 @@ describe("StateService", function() {
 });
 
 describe("StateService returns each state", function() {
-    var StateService = require('../../services/StateService');
+    var StateService = require('../services/StateService');
     var stateService = new StateService();
     var stateAbbrevs = ["AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", "HI", 
                         "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD", "MA", "MI", 
@@ -79,7 +79,7 @@ describe("StateService returns each state", function() {
 });
 
 describe("A state", function() {
-    var StateService = require('../../services/StateService');
+    var StateService = require('../services/StateService');
     var stateService = new StateService();
     var knownState = stateService.getStateByName('Alaska');
     var statesList = stateService.getAllStates();
