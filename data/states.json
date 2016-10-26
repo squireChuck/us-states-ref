@@ -762,22 +762,22 @@
         "capital" : "Concord", 
         "addresses" : [
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "321 Loudon Rd",
+                "city" : "Concord", 
                 "state" : "NH",
-                "zip" : ""
+                "zip" : "03301"
             },
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "1045 S Willow St",
+                "city" : "Manchester", 
                 "state" : "NH",
-                "zip" : ""
+                "zip" : "03103"
             },
             {
-                "street" : "",
-                "city": "",
+                "street" : "4 Chambers Dr",
+                "city": "Hooksett",
                 "state" : "NH",
-                "zip" : ""
+                "zip" : "03106"
             }            
         ], 
         "driversLicenseDescription" : ["2 num's, 3 char's, 5 num's"], 
@@ -789,22 +789,22 @@
         "capital" : "Trenton", 
         "addresses" : [
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "8 NJ-35",
+                "city" : "Neptune City", 
                 "state" : "NJ",
-                "zip" : ""
+                "zip" : "07753"
             },
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "200 Ryders Ln",
+                "city" : "Milltown", 
                 "state" : "NJ",
-                "zip" : ""
+                "zip" : "08850"
             },
             {
-                "street" : "",
-                "city": "",
+                "street" : "590 S Broad St",
+                "city": "Trenton",
                 "state" : "NJ",
-                "zip" : ""
+                "zip" : "08611"
             }            
         ], 
         "driversLicenseDescription" : ["1 char's, 14 num's"], 
@@ -816,22 +816,22 @@
         "capital" : "Santa Fe", 
         "addresses" : [
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "3299 Cerrillos Rd",
+                "city" : "Santa Fe", 
                 "state" : "NM",
-                "zip" : ""
+                "zip" : "87507"
             },
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "1501 7th St",
+                "city" : "Las Vegas", 
                 "state" : "NM",
-                "zip" : ""
+                "zip" : "87701"
             },
             {
-                "street" : "",
-                "city": "",
+                "street" : "5001 Gibson Blvd SE",
+                "city": "Albuquerque",
                 "state" : "NM",
-                "zip" : ""
+                "zip" : "87108"
             }            
         ], 
         "driversLicenseDescription" : ["8 num's", "9 num's"], 
@@ -843,22 +843,22 @@
         "capital" : "Albany", 
         "addresses" : [
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "1006 Central Ave",
+                "city" : "Albany", 
                 "state" : "NY",
-                "zip" : ""
+                "zip" : "12205"
             },
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "132 Delaware Ave",
+                "city" : "Delmar", 
                 "state" : "NY",
-                "zip" : ""
+                "zip" : "12054"
             },
             {
-                "street" : "",
-                "city": "",
+                "street" : "276 Service Rd",
+                "city": "Amsterdam",
                 "state" : "NY",
-                "zip" : ""
+                "zip" : "12010"
             }            
         ], 
         "driversLicenseDescription" : ["9 num's"], 
@@ -870,22 +870,22 @@
         "capital" : "Raleigh", 
         "addresses" : [
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "105 E South St",
+                "city" : "Raleigh", 
                 "state" : "NC",
-                "zip" : ""
+                "zip" : "27601"
             },
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "600 E Main St",
+                "city" : "Benson", 
                 "state" : "NC",
-                "zip" : ""
+                "zip" : "27504"
             },
             {
-                "street" : "",
-                "city": "",
+                "street" : "1429 Sunset Ave",
+                "city": "Clinton",
                 "state" : "NC",
-                "zip" : ""
+                "zip" : "28328"
             }            
         ], 
         "driversLicenseDescription" : ["12 num's"], 
@@ -897,22 +897,22 @@
         "capital" : "Bismarck", 
         "addresses" : [
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "2631 State St",
+                "city" : "Bismarck", 
                 "state" : "ND",
-                "zip" : ""
+                "zip" : "58503"
             },
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "2601 Memorial Hwy",
+                "city" : "Mandan", 
                 "state" : "ND",
-                "zip" : ""
+                "zip" : "58554"
             },
             {
-                "street" : "",
-                "city": "",
+                "street" : "3100 S Broadway St",
+                "city": "Minot",
                 "state" : "ND",
-                "zip" : ""
+                "zip" : "58701"
             }            
         ], 
         "driversLicenseDescription" : ["9 num's", "3 char's, 6 num's"], 
@@ -924,22 +924,22 @@
         "capital" : "Columbus", 
         "addresses" : [
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "381 E Main St",
+                "city" : "Columbus", 
                 "state" : "OH",
-                "zip" : ""
+                "zip" : "43215"
             },
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "2100 N Bechtle Ave",
+                "city" : "Springfield", 
                 "state" : "OH",
-                "zip" : ""
+                "zip" : "45504"
             },
             {
-                "street" : "",
-                "city": "",
+                "street" : "160 Woodman Dr",
+                "city": "Riverside",
                 "state" : "OH",
-                "zip" : ""
+                "zip" : "45431"
             }            
         ], 
         "driversLicenseDescription" : ["9 num's", "2 char's, 6 num's"], 
@@ -951,22 +951,22 @@
         "capital" : "Oklahoma City", 
         "addresses" : [
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "936 W Sheridan Ave",
+                "city" : "Oklahoma City", 
                 "state" : "OK",
-                "zip" : ""
+                "zip" : "73106"
             },
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "731 W Main St",
+                "city" : "Norman", 
                 "state" : "OK",
-                "zip" : ""
+                "zip" : "73069"
             },
             {
-                "street" : "",
-                "city": "",
+                "street" : "2609 Grant Ave",
+                "city": "Pauls Valley",
                 "state" : "OK",
-                "zip" : ""
+                "zip" : "73075"
             }            
         ], 
         "driversLicenseDescription" : ["9 num's"], 
@@ -978,22 +978,22 @@
         "capital" : "Salem", 
         "addresses" : [
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "10010 SE Stark St",
+                "city" : "Portland", 
                 "state" : "OR",
-                "zip" : ""
+                "zip" : "97216"
             },
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "1435 SE Geary St",
+                "city" : "Albany", 
                 "state" : "OR",
-                "zip" : ""
+                "zip" : "97322"
             },
             {
-                "street" : "",
-                "city": "",
+                "street" : "802 Lancaster Dr NE",
+                "city": "Salem",
                 "state" : "OR",
-                "zip" : ""
+                "zip" : "97301"
             }            
         ], 
         "driversLicenseDescription" : ["6-7 num's"], 
@@ -1005,22 +1005,22 @@
         "capital" : "Harrisburg", 
         "addresses" : [
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "3925 N Front St",
+                "city" : "Harrisburg", 
                 "state" : "PA",
-                "zip" : ""
+                "zip" : "17110"
             },
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "922 Loucks Rd",
+                "city" : "York", 
                 "state" : "PA",
-                "zip" : ""
+                "zip" : "17404"
             },
             {
-                "street" : "",
-                "city": "",
+                "street" : "1117 Harrisburg Pike",
+                "city": "Lancaster",
                 "state" : "PA",
-                "zip" : ""
+                "zip" : "17603"
             }            
         ], 
         "driversLicenseDescription" : ["8 num's"], 
@@ -1032,22 +1032,22 @@
         "capital" : "Providence", 
         "addresses" : [
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "731 Eddy St",
+                "city" : "Providence", 
                 "state" : "RI",
-                "zip" : ""
+                "zip" : "02903"
             },
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "1199 Chopmist Hill Rd",
+                "city" : "North Scituate", 
                 "state" : "RI",
-                "zip" : ""
+                "zip" : "02857"
             },
             {
-                "street" : "",
-                "city": "",
+                "street" : "130 Pascoag Main St",
+                "city": "Pascoag",
                 "state" : "RI",
-                "zip" : ""
+                "zip" : "02859"
             }            
         ], 
         "driversLicenseDescription" : ["7 num's"], 
@@ -1059,22 +1059,22 @@
         "capital" : "Columbia", 
         "addresses" : [
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "2349 Taylor St",
+                "city" : "Columbia", 
                 "state" : "SC",
-                "zip" : ""
+                "zip" : "29204"
             },
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "4008 Boiling Springs Rd",
+                "city" : "Boiling Springs", 
                 "state" : "SC",
-                "zip" : ""
+                "zip" : "29316"
             },
             {
-                "street" : "",
-                "city": "",
+                "street" : "1217 Woodruff Rd",
+                "city": "Greenville",
                 "state" : "SC",
-                "zip" : ""
+                "zip" : "29607"
             }            
         ], 
         "driversLicenseDescription" : ["7 num's", "9 num's with 2 zeros in front"], 
@@ -1086,22 +1086,22 @@
         "capital" : "Pierre", 
         "addresses" : [
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "512 W Sioux Ave",
+                "city" : "Pierre", 
                 "state" : "SD",
-                "zip" : ""
+                "zip" : "57501"
             },
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "520 Mountain View Rd",
+                "city" : "Rapid City", 
                 "state" : "SD",
-                "zip" : ""
+                "zip" : "57702"
             },
             {
-                "street" : "",
-                "city": "",
+                "street" : "2610 Lazelle St",
+                "city": "Sturgis",
                 "state" : "SD",
-                "zip" : ""
+                "zip" : "57785"
             }            
         ], 
         "driversLicenseDescription" : ["7 num's", "8 num's", "9 num's", "11 num's"], 
@@ -1113,22 +1113,22 @@
         "capital" : "Nashville", 
         "addresses" : [
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "2603 West End Ave",
+                "city" : "Nashville", 
                 "state" : "TN",
-                "zip" : ""
+                "zip" : "37203"
             },
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "1114 Nashville Hwy",
+                "city" : "Columbia", 
                 "state" : "TN",
-                "zip" : ""
+                "zip" : "38401"
             },
             {
-                "street" : "",
-                "city": "",
+                "street" : "1622 N Locust Ave",
+                "city": "Lawrenceburg",
                 "state" : "TN",
-                "zip" : ""
+                "zip" : "38464"
             }            
         ], 
         "driversLicenseDescription" : ["7-9 num's"], 
@@ -1140,22 +1140,22 @@
         "capital" : "Austin", 
         "addresses" : [
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "201 E 21st St",
+                "city" : "Austin", 
                 "state" : "TX",
-                "zip" : ""
+                "zip" : "78712"
             },
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "806 N Austin Ave",
+                "city" : "Georgetown", 
                 "state" : "TX",
-                "zip" : ""
+                "zip" : "78626"
             },
             {
-                "street" : "",
-                "city": "",
+                "street" : "1350 Austin Hwy",
+                "city": "San Antonio",
                 "state" : "TX",
-                "zip" : ""
+                "zip" : "78209"
             }            
         ], 
         "driversLicenseDescription" : ["8 num's beginning with 0, 1, or 2"], 
@@ -1167,22 +1167,22 @@
         "capital" : "Salt Lake City", 
         "addresses" : [
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "85 E 1300 S",
+                "city" : "Salt Lake City", 
                 "state" : "UT",
-                "zip" : ""
+                "zip" : "84115"
             },
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "195 W 500 S",
+                "city" : "Bountiful", 
                 "state" : "UT",
-                "zip" : ""
+                "zip" : "84010"
             },
             {
-                "street" : "",
-                "city": "",
+                "street" : "1160 Wall Ave",
+                "city": "Ogden",
                 "state" : "UT",
-                "zip" : ""
+                "zip" : "84404"
             }            
         ], 
         "driversLicenseDescription" : ["6-9 num's"], 
@@ -1194,22 +1194,22 @@
         "capital" : "Montpelier", 
         "addresses" : [
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "28 State St",
+                "city" : "Montpelier", 
                 "state" : "VT",
-                "zip" : ""
+                "zip" : "05602"
             },
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "149 S Main St",
+                "city" : "Waterbury", 
                 "state" : "VT",
-                "zip" : ""
+                "zip" : "05676"
             },
             {
-                "street" : "",
-                "city": "",
+                "street" : "332 Barre-Montpelier Rd",
+                "city": "Barre",
                 "state" : "VT",
-                "zip" : ""
+                "zip" : "05641"
             }            
         ], 
         "driversLicenseDescription" : ["8 num's", "7 num's, 1 char's"], 
@@ -1221,22 +1221,22 @@
         "capital" : "Richmond", 
         "addresses" : [
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "1800 E Broad St",
+                "city" : "Richmond", 
                 "state" : "VA",
-                "zip" : ""
+                "zip" : "23223"
             },
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "1192 Richmond Rd",
+                "city" : "Charlottesville", 
                 "state" : "VA",
-                "zip" : ""
+                "zip" : "22911"
             },
             {
-                "street" : "",
-                "city": "",
+                "street" : "710 Shenandoah Village Dr",
+                "city": "Waynesboro",
                 "state" : "VA",
-                "zip" : ""
+                "zip" : "22980"
             }            
         ], 
         "driversLicenseDescription" : ["12 num's", "1 char's, 8 num's"], 
@@ -1248,22 +1248,22 @@
         "capital" : "Olympia", 
         "addresses" : [
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "2611 Harrison Ave NW",
+                "city" : "Olympia", 
                 "state" : "WA",
-                "zip" : ""
+                "zip" : "98502"
             },
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "13609 Meridian Ave E",
+                "city" : "Puyallup", 
                 "state" : "WA",
-                "zip" : ""
+                "zip" : "98373"
             },
             {
-                "street" : "",
-                "city": "",
+                "street" : "1401 72nd St E",
+                "city": "Tacoma",
                 "state" : "WA",
-                "zip" : ""
+                "zip" : "98404"
             }            
         ], 
         "driversLicenseDescription" : ["7 char's, 3 num's, 2 chars"], 
@@ -1275,22 +1275,22 @@
         "capital" : "Charleston", 
         "addresses" : [
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "3303 MacCorkle Ave SE",
+                "city" : "Charleston", 
                 "state" : "WV",
-                "zip" : ""
+                "zip" : "25304"
             },
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "733 9th Ave",
+                "city" : "Huntington", 
                 "state" : "WV",
-                "zip" : ""
+                "zip" : "25701"
             },
             {
-                "street" : "",
-                "city": "",
+                "street" : "4223 Robert C Byrd Dr",
+                "city": "Beckley",
                 "state" : "WV",
-                "zip" : ""
+                "zip" : "25801"
             }            
         ], 
         "driversLicenseDescription" : ["1 char's, 6 num's", "2 char's, 5 num's", "the number \"1\", the letter \"X\", 5 num's"], 
@@ -1302,22 +1302,22 @@
         "capital" : "Madison", 
         "addresses" : [
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "633 S Gammon Rd",
+                "city" : "Madison", 
                 "state" : "WI",
-                "zip" : ""
+                "zip" : "53719"
             },
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "147 Wittig Rd",
+                "city" : "Tomah", 
                 "state" : "WI",
-                "zip" : ""
+                "zip" : "54660"
             },
             {
-                "street" : "",
-                "city": "",
+                "street" : "810 2nd Ave S",
+                "city": "Onalaska",
                 "state" : "WI",
-                "zip" : ""
+                "zip" : "54650"
             }            
         ], 
         "driversLicenseDescription" : ["1 char's, 13 num's"], 
@@ -1329,22 +1329,22 @@
         "capital" : "Cheyenne", 
         "addresses" : [
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "205 N Greeley Hwy",
+                "city" : "Cheyenne", 
                 "state" : "WY",
-                "zip" : ""
+                "zip" : "82007"
             },
             {
-                "street" : "",
-                "city" : "", 
+                "street" : "1457 South St",
+                "city" : "Wheatland", 
                 "state" : "WY",
-                "zip" : ""
+                "zip" : "82201"
             },
             {
-                "street" : "",
-                "city": "",
+                "street" : "80 W F St",
+                "city": "Casper",
                 "state" : "WY",
-                "zip" : ""
+                "zip" : "82601"
             }            
         ], 
         "driversLicenseDescription" : ["9-10 num's"], 
