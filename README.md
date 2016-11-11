@@ -11,7 +11,7 @@ Node 4.6.0
 
 2. Install the dependencies listed in package.json, e.g. in the command prompt, nav to the us-states-ref folder and `npm install`
 
-3. After that's done, stay in the same folder and run `jasmine`. If the tests pass, you're all set!
+3. After that's done, stay in the same folder and run `npm test`. If the tests pass, you're all set!
 
 4. See the apiController for mountable endpoints on an Express app.
 
