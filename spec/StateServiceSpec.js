@@ -121,14 +121,19 @@ describe("A state", function() {
             });
         });
 
-        it("has a drivers license description" + state.name, function() {
+        it("has a drivers license description - " + state.name, function() {
             expect(state.driversLicenseDescription).toBeTruthy();
             expect(state.driversLicenseDescription instanceof Array).toBe(true);
             expect(state.driversLicenseDescription.length).toBeGreaterThan(0);
         });
 
-        it("has a sample drivers license" + state.name, function() {
+        it("has a sample drivers license - " + state.name, function() {
             expect(state.sampleLicense).toBeTruthy();
+        });
+
+        it("has a union admission date - " + state.name, function() {
+            var admissionDate = new Date(state.unionAdmissionDate);
+            expect(isNaN(admissionDate)).not.toBeTruthy();
         });
     };
 

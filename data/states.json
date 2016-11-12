@@ -24,7 +24,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["7 num's"], 
-        "sampleLicense" : "1563214"
+        "sampleLicense" : "1563214",
+        "unionAdmissionDate" : "1819-12-14"
     }, 
     {
         "name" : "Alaska",
@@ -51,7 +52,8 @@
             }
         ], 
         "driversLicenseDescription" : ["1-7 num's"], 
-        "sampleLicense" : "1563255"
+        "sampleLicense" : "1563255",
+        "unionAdmissionDate" : "1959-01-03"
     }, 
     {
         "name" : "Arizona",
@@ -79,7 +81,8 @@
         ], 
         "driversLicenseDescription" : ["1 char's, 5-6 num's", 
             "2 char's, 5 num's", "9 num's", "1 char's, 8 num's"], 
-        "sampleLicense" : "156654489"
+        "sampleLicense" : "156654489",
+        "unionAdmissionDate" : "1912-02-14"
     }, 
     {
         "name" : "Arkansas",
@@ -106,7 +109,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["9 num's"], 
-        "sampleLicense" : "111321156"
+        "sampleLicense" : "111321156",
+        "unionAdmissionDate" : "1836-06-15"
     }, 
     {
         "name" : "California",
@@ -133,7 +137,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["1 char's, 7 num's"], 
-        "sampleLicense" : "A3544567"
+        "sampleLicense" : "A3544567",
+        "unionAdmissionDate" : "1850-09-09"
     }, 
     {
         "name" : "Colorado",
@@ -160,7 +165,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["2 char's, 6 num's", "9 num's"], 
-        "sampleLicense" : "AB123654"
+        "sampleLicense" : "AB123654",
+        "unionAdmissionDate" : "1876-08-01"
     }, 
     {
         "name" : "Connecticut",
@@ -187,7 +193,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["9 num's"], 
-        "sampleLicense" : "156156321"
+        "sampleLicense" : "156156321",
+        "unionAdmissionDate" : "1788-01-09"
     }, 
     {
         "name" : "Delaware",
@@ -214,7 +221,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["4-7 num's"], 
-        "sampleLicense" : "1156657"
+        "sampleLicense" : "1156657",
+        "unionAdmissionDate" : "1787-12-07"
     }, 
     {
         "name" : "Florida",
@@ -241,7 +249,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["1 char's, 11-12 num's"], 
-        "sampleLicense" : "A15665448977"
+        "sampleLicense" : "A15665448977",
+        "unionAdmissionDate" : "1845-03-03"
     }, 
     {
         "name" : "Georgia",
@@ -268,7 +277,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["6-9 num's"], 
-        "sampleLicense" : "45335478"
+        "sampleLicense" : "45335478",
+        "unionAdmissionDate" : "1788-01-02"
     }, 
     {
         "name" : "Hawaii",
@@ -295,7 +305,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["9 num's", "Letter \"H\" and 8 num's"], 
-        "sampleLicense" : "123320321"
+        "sampleLicense" : "123320321",
+        "unionAdmissionDate" : "1959-08-21"
     }, 
     {
         "name" : "Idaho",
@@ -322,7 +333,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["9 num's", "2 char's, 6 num's, 1 char's"], 
-        "sampleLicense" : "456987789"
+        "sampleLicense" : "456987789",
+        "unionAdmissionDate" : "1890-07-03"
     }, 
     {
         "name" : "Illinois",
@@ -349,7 +361,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["1 char's, 11 num's"], 
-        "sampleLicense" : "C45665478933"
+        "sampleLicense" : "C45665478933",
+        "unionAdmissionDate" : "1818-12-03"
     }, 
     {
         "name" : "Indiana",
@@ -376,7 +389,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["1 char's, 9 num's", "10 num's"], 
-        "sampleLicense" : "A123320123"
+        "sampleLicense" : "A123320123",
+        "unionAdmissionDate" : "1816-12-11"
     }, 
     {
         "name" : "Iowa",
@@ -403,7 +417,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["9 num's", "7 char's, 2 num's"], 
-        "sampleLicense" : "456987456"
+        "sampleLicense" : "456987456",
+        "unionAdmissionDate" : "1846-12-28"
     }, 
     {
         "name" : "Kansas",
@@ -430,7 +445,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["9 num's", "Letter \"K\", 8 num's"], 
-        "sampleLicense" : "123321123"
+        "sampleLicense" : "123321123",
+        "unionAdmissionDate" : "1861-01-29"
     }, 
     {
         "name" : "Kentucky",
@@ -457,7 +473,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["1 char's, 8 num's", "9-10 num's"], 
-        "sampleLicense" : "A12365445"
+        "sampleLicense" : "A12365445",
+        "unionAdmissionDate" : "1792-06-01"
     }, 
     {
         "name" : "Louisiana",
@@ -484,7 +501,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["\"00\" + 7 num's"], 
-        "sampleLicense" : "001563217"
+        "sampleLicense" : "001563217",
+        "unionAdmissionDate" : "1812-04-30"
     }, 
     {
         "name" : "Maine",
@@ -511,7 +529,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["7 num's"], 
-        "sampleLicense" : "1234567"
+        "sampleLicense" : "1234567",
+        "unionAdmissionDate" : "1820-03-15"
     }, 
     {
         "name" : "Maryland",
@@ -538,7 +557,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["1 char's, 12 num's"], 
-        "sampleLicense" : "A123654789654"
+        "sampleLicense" : "A123654789654",
+        "unionAdmissionDate" : "1788-04-28"
     }, 
     {
         "name" : "Massachusetts",
@@ -565,7 +585,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["1 char's, 8 num's", "9 num's"], 
-        "sampleLicense" : "A32165465"
+        "sampleLicense" : "A32165465",
+        "unionAdmissionDate" : "1788-02-06"
     }, 
     {
         "name" : "Michigan",
@@ -592,7 +613,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["1 char's, 12 num's"], 
-        "sampleLicense" : "A123654456321"
+        "sampleLicense" : "A123654456321",
+        "unionAdmissionDate" : "1837-01-26"
     }, 
     {
         "name" : "Minnesota",
@@ -619,7 +641,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["1 char's, 12 num's"], 
-        "sampleLicense" : "B321123654456"
+        "sampleLicense" : "B321123654456",
+        "unionAdmissionDate" : "1858-05-11"
     }, 
     {
         "name" : "Mississippi",
@@ -646,7 +669,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["9 num's"], 
-        "sampleLicense" : "156651651"
+        "sampleLicense" : "156651651",
+        "unionAdmissionDate" : "1817-12-10"
     }, 
     {
         "name" : "Missouri",
@@ -673,7 +697,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["9 num's", "1 char's, 6-7 num's"], 
-        "sampleLicense" : "156321456"
+        "sampleLicense" : "156321456",
+        "unionAdmissionDate" : "1812-08-10"
     }, 
     {
         "name" : "Montana",
@@ -700,7 +725,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["9 num's", "13 num's", "1 char's, 1 num's, 1 char's, 2 num's, 3 char's, and 1 num's"], 
-        "sampleLicense" : "123321123"
+        "sampleLicense" : "123321123",
+        "unionAdmissionDate" : "1889-11-08"
     }, 
     {
         "name" : "Nebraska",
@@ -727,7 +753,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["1 char's, 6-8 num's"], 
-        "sampleLicense" : "B456321"
+        "sampleLicense" : "B456321",
+        "unionAdmissionDate" : "1867-03-01"
     }, 
     {
         "name" : "Nevada",
@@ -754,7 +781,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["9 num's", "10 num's"], 
-        "sampleLicense" : "123321123"
+        "sampleLicense" : "123321123",
+        "unionAdmissionDate" : "1864-10-31"
     }, 
     {
         "name" : "New Hampshire",
@@ -781,7 +809,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["2 num's, 3 char's, 5 num's"], 
-        "sampleLicense" : "12ABC32145"
+        "sampleLicense" : "12ABC32145",
+        "unionAdmissionDate" : "1788-06-21"
     }, 
     {
         "name" : "New Jersey",
@@ -808,7 +837,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["1 char's, 14 num's"], 
-        "sampleLicense" : "C32145698745655"
+        "sampleLicense" : "C32145698745655",
+        "unionAdmissionDate" : "1787-12-18"
     }, 
     {
         "name" : "New Mexico",
@@ -835,7 +865,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["8 num's", "9 num's"], 
-        "sampleLicense" : "15665445"
+        "sampleLicense" : "15665445",
+        "unionAdmissionDate" : "1912-01-06"
     }, 
     {
         "name" : "New York",
@@ -862,7 +893,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["9 num's"], 
-        "sampleLicense" : "156321456"
+        "sampleLicense" : "156321456",
+        "unionAdmissionDate" : "1788-07-26"
     }, 
     {
         "name" : "North Carolina",
@@ -889,7 +921,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["12 num's"], 
-        "sampleLicense" : "123321456654"
+        "sampleLicense" : "123321456654",
+        "unionAdmissionDate" : "1789-11-21"
     }, 
     {
         "name" : "North Dakota",
@@ -916,7 +949,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["9 num's", "3 char's, 6 num's"], 
-        "sampleLicense" : "156321456"
+        "sampleLicense" : "156321456",
+        "unionAdmissionDate" : "1889-11-02"
     }, 
     {
         "name" : "Ohio",
@@ -943,7 +977,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["9 num's", "2 char's, 6 num's"], 
-        "sampleLicense" : "156321456"
+        "sampleLicense" : "156321456",
+        "unionAdmissionDate" : "1803-03-01"
     }, 
     {
         "name" : "Oklahoma",
@@ -970,7 +1005,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["9 num's"], 
-        "sampleLicense" : "156651651"
+        "sampleLicense" : "156651651",
+        "unionAdmissionDate" : "1907-11-16"
     }, 
     {
         "name" : "Oregon",
@@ -997,7 +1033,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["6-7 num's"], 
-        "sampleLicense" : "1233214"
+        "sampleLicense" : "1233214",
+        "unionAdmissionDate" : "1859-02-14"
     }, 
     {
         "name" : "Pennsylvania",
@@ -1024,7 +1061,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["8 num's"], 
-        "sampleLicense" : "15665478"
+        "sampleLicense" : "15665478",
+        "unionAdmissionDate" : "1787-12-12"
     }, 
     {
         "name" : "Rhode Island",
@@ -1051,7 +1089,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["7 num's"], 
-        "sampleLicense" : "1233214"
+        "sampleLicense" : "1233214",
+        "unionAdmissionDate" : "1790-05-29"
     }, 
     {
         "name" : "South Carolina",
@@ -1078,7 +1117,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["7 num's", "9 num's with 2 zeros in front"], 
-        "sampleLicense" : "1566544"
+        "sampleLicense" : "1566544",
+        "unionAdmissionDate" : "1788-05-23"
     }, 
     {
         "name" : "South Dakota",
@@ -1105,7 +1145,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["7 num's", "8 num's", "9 num's", "11 num's"], 
-        "sampleLicense" : "1566544"
+        "sampleLicense" : "1566544",
+        "unionAdmissionDate" : "1889-11-02"
     }, 
     {
         "name" : "Tennessee",
@@ -1132,7 +1173,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["7-9 num's"], 
-        "sampleLicense" : "123654456"
+        "sampleLicense" : "123654456",
+        "unionAdmissionDate" : "1796-06-01"
     }, 
     {
         "name" : "Texas",
@@ -1159,7 +1201,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["8 num's beginning with 0, 1, or 2"], 
-        "sampleLicense" : "01232144"
+        "sampleLicense" : "01232144",
+        "unionAdmissionDate" : "1845-12-29"
     }, 
     {
         "name" : "Utah",
@@ -1186,7 +1229,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["6-9 num's"], 
-        "sampleLicense" : "123321456"
+        "sampleLicense" : "123321456",
+        "unionAdmissionDate" : "1896-01-04"
     }, 
     {
         "name" : "Vermont",
@@ -1213,7 +1257,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["8 num's", "7 num's, 1 char's"], 
-        "sampleLicense" : "15615665"
+        "sampleLicense" : "15615665",
+        "unionAdmissionDate" : "1791-03-04"
     }, 
     {
         "name" : "Virginia",
@@ -1240,7 +1285,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["12 num's", "1 char's, 8 num's"], 
-        "sampleLicense" : "123321456654"
+        "sampleLicense" : "123321456654",
+        "unionAdmissionDate" : "1788-06-25"
     }, 
     {
         "name" : "Washington",
@@ -1267,7 +1313,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["7 char's, 3 num's, 2 chars"], 
-        "sampleLicense" : "ABCDEFG123AA"
+        "sampleLicense" : "ABCDEFG123AA",
+        "unionAdmissionDate" : "1889-11-11"
     }, 
     {
         "name" : "West Virginia",
@@ -1294,7 +1341,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["1 char's, 6 num's", "2 char's, 5 num's", "the number \"1\", the letter \"X\", 5 num's"], 
-        "sampleLicense" : "A156321"
+        "sampleLicense" : "A156321",
+        "unionAdmissionDate" : "1863-06-20"
     }, 
     {
         "name" : "Wisconsin",
@@ -1321,7 +1369,8 @@
             }            
         ], 
         "driversLicenseDescription" : ["1 char's, 13 num's"], 
-        "sampleLicense" : "A1233213213211"
+        "sampleLicense" : "A1233213213211",
+        "unionAdmissionDate" : "1848-05-29"
     }, 
     {
         "name" : "Wyoming",
@@ -1348,6 +1397,7 @@
             }            
         ], 
         "driversLicenseDescription" : ["9-10 num's"], 
-        "sampleLicense" : "156654789"
+        "sampleLicense" : "156654789",
+        "unionAdmissionDate" : "1890-07-10"
     }
 ]
